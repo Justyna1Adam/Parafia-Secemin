@@ -21,11 +21,14 @@ Strona w budowie, podane dane nie są zgodne ze stanem faktycznym!
 10:00 <br>
 18:00 <br>
 </center>
+
+
      </td>
      <td width="50%">
    <center><u><h1>Bichniów</h1></u>
      <i><h4>Niedziele i Święta</h4></i>
-10:30
+
+10:30<br>
 <h4> <a href="https://goo.gl/maps/LJid29AeSeT2">Dojazd do kaplicy</a></h4>
   </center>
      </td>
