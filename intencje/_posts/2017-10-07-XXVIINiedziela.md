@@ -11,9 +11,8 @@ author: Justyna
  10:00 Za parafian.<br>
  17:00 Za strażaków.<br>
 <b> Bichniów </b>
-<ul>
- <li>10:30 10 rocznica ślubu Janiny i Jana </li>
- </ul>
+ 10:30 10 rocznica ślubu Janiny i Jana
+ 
  <hr width= "70%">
  <h4>09.10 Poniedziałek </h4>
  <b> Secemin </b>
