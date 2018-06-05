@@ -6,7 +6,7 @@ author: Justyna
 ---
 <center>
 <h3>22.10 - "XXIX Niedziela zwykła „A” ” </h3>
-<b> Secemin </b>
+<b> Secemin </b><br>
 
  08:30 Za Krzysztofa i jego rodzinę. <br>
  10:00 Za parafian.<br>
