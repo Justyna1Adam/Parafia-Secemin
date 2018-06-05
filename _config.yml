@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Parafia Secemin
+title:          Parafia św. Katarzyny i św. Jana Apostoła w Seceminie
 paginate:       5
 baseurl:        "/parafia-secemin"
 url:            "https://justyna1adam.github.io"
