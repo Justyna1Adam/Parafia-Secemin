@@ -2,14 +2,13 @@
   padding: 3rem 0;
 
   &-info {
-    color: #black;
+    color: grey-2;
     font-family: $palatino;
     letter-spacing: .5px;
     text-align: center;
 
     span {
       font-style: italic;
-      color: grey-2;
     }
   }
 
