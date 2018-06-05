@@ -9,9 +9,8 @@ author: Justyna
 <b> Secemin </b>
 
  08:30 Za Krzysztofa i jego rodzinę. <br>
- 10:00 Za parafian. <br>
- 17:00 Za strażaków. <br>
- 
+ 10:00 Za parafian.<br>
+ 17:00 Za strażaków.<br><br>
 <b> Bichniów </b> <br>
  10:30 10 rocznica ślubu Janiny i Jana <br>
  
