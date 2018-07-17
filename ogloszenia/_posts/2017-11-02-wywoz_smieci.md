@@ -1,7 +1,7 @@
 ---
 layout: post
 category: ogloszenia
-title: 'Wywóz śmieci z cmentarza'
+title: 'Kwiaty w kościele'
 author: Justyna
 ---
 
