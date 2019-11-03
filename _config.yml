@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Parafia św. Katarzyny i św. Jana Apostoła w Seceminie
+title:          Mieszkając tam, gdzie pinezka
 paginate:       5
-baseurl:        "/parafia-secemin"
+baseurl:        "/mieszkajac-tam-gdzie-pinezka"
 url:            "https://justyna1adam.github.io"
 
 # Assets
@@ -23,7 +23,7 @@ author:
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/justyna1adam/Parafia-Secemin
+  repo:         https://github.com/justyna1adam/mieszkajac-tam-gdzie-pinezka
 
 # Gems
 gems:
