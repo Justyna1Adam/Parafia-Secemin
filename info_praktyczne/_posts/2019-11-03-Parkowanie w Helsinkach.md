@@ -1,7 +1,7 @@
 ---
 layout: post
 category: info_praktyczne
-title: '08.10-14.10.2017'
+title: 'Parkowanie w Helsinkach'
 author: Justyna
 ---
 Parkowanie w stolicy Finlandii to dość kosztowna sprawa lub jeśli nie chce się płacić, to wyzwanie. Większość miejsc parkingowych w Helsinkach jest płatne w dni powszednie od 9 do 21. W soboty od 9 do 18. Czasem też w niedziele. Na dodatek, większość miejsc ma ograniczenie czasowe. Nie szkodzi, że chcemy stać na miejscu 5h i za tyle chcemy zapłacić, bo na większości miejsc nie można stać dłużej niż 4h. Im bliżej centrum i ważnych miejsc, tym maksymalny czas postoju jest krótszy.
