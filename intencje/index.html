@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Intencje
-category: intencje
+title: Informacje praktyczne
+category: info_praktyczne
 ---
 
 <div class="catalogue">
   {% for post in site.posts %}      
-  {% if post.categories contains 'intencje' %}
+  {% if post.categories contains 'info_praktyczne' %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%d.%m.%Y" }}</time>
