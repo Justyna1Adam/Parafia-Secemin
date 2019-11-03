@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: 'Jeszcze dalej, niż północ'
+tags: ["Helsinki", "podróż", "jeszcze_dalej_niz_polnoc"]
 author: Justyna
 ---
 
