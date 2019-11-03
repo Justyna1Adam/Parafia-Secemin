@@ -1,6 +1,6 @@
 ---
 layout: post
-category: intencje
+category: info_praktyczne
 title: '08.10-14.10.2017'
 author: Justyna
 ---
