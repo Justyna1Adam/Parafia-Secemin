@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Kontakt"
+title: "O mnie"
 author: "Justyna"
-permalink: /kontakt/
+permalink: /o_mnie/
 ---
 
 
