@@ -1,6 +1,6 @@
 ---
 layout: post
-category: ogloszenia
+category: blog
 title: 'Sprzątanie kościoła'
 author: Justyna
 ---
