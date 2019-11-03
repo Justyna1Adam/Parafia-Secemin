@@ -32,7 +32,8 @@
 
   &-line {
     @include transition(all .3s ease-out);
-    border-top: .2rem solid #002f6c; <!-- changes undlerline color -->
+    [comment]: <> (changes undlerline color)
+    border-top: .2rem solid #002f6c;
     display: block;
     width: 2rem;
   }
