@@ -14,6 +14,6 @@ O godzinach w jakich obowiązuje opłata za parking informuje nas znak z literą
 
 <p>Jeśli na znaku nie ma któregoś oznaczenia, np. <font color="red"> 9-12 </font>, oznacza to, że danego dnia nie obowiązuje opłata za parkowanie.</p>
 <p>Przykładowy znak, mówiący o tym, że w dni powszednie za miejsce trzeba zapłacić w godzinach 9 - 21, w soboty 9 - 18. I nie można na nim stać dłużej, niż 1 godzinę. Poza tymi godzinami i w niedzielę opłaty i limit czasowy nie obowiązuje. </p>
-![Znak informujący o zasadach parkowania.]({{ "mieszkajac-tam-gdzie-pinezka/info_praktyczne/assets/parkowanie.jpg" | absolute_url}})
+![Znak informujący o zasadach parkowania.]({{ "/assets/parkowanie.jpg" | absolute_url}})
  
 <p>Ten sposób oznaczenia godzin jest spotykany również w sklepach, komunikacji miejskiej, itp, itd. </p>
